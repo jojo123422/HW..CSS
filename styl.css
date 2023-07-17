@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.tuwiag p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+.tuwiag a{
+    text-decoration: jumanah;
+    background-color: tuwiag;
+    color:0,300,0;
+}
+#TuwaigIMG img{
+    width: 200px;
+}
+.tuwiagAcademy h3{
+    font-family:verdana,Tahoma,sans-serif;
+    color:#bbb ;
+    text-decoration:underline ;
+}
